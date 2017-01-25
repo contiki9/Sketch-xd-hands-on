@@ -103,8 +103,13 @@ inVisionと連携をするにはプラグインがあったほうが便利なの
 
 ## Xd組
 
-追加予定…
+### 事前準備
+XDのダウンロード
 
+- [ダウンロードページ](https://creative.adobe.com/ja/products/download/experience-design?promoid=3X72B5HV&mv=other) にアクセス
+- 幾つかの質問に答える
+- Adobeアカウントでログイン（Adobeアカウントを持ってない場合は新規登録が必要）
+- ダウンロード
 
 ---
 
