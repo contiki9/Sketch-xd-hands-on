@@ -89,7 +89,7 @@ inVisionと連携をするにはプラグインがあったほうが便利なの
 
 
 
-- [ボタンなどのパーツメインが必要な場合](ww.sketchappsources.com/free-source/1979-wirebase-wireframing-kit-sketch-freebie-resource.html)
+- [ボタンなどのパーツメインが必要な場合](https://www.sketchappsources.com/free-source/1979-wirebase-wireframing-kit-sketch-freebie-resource.html)
 - [色々コミコミ版](https://www.sketchappsources.com/resource/download-1823.html)
 
 ### プロトタイプ
