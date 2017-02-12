@@ -79,6 +79,8 @@ Sketch組、Xd組に分かれて作業してもらいます。
 Sketchをダウンロードしていない人はダウンロードしてください。
 [Download Free Trial](https://www.sketchapp.com/)
 
+ファイルはサンプルを一つ用意していますので、必要であれば活用ください。
+https://drive.google.com/open?id=0B99a0Oq17hX5NXpCb3E3bHpmVjQ
 ### プラグイン
 inVisionと連携をするにはプラグインがあったほうが便利なので下記よりダウンロードしてください。
 
@@ -86,9 +88,6 @@ inVisionと連携をするにはプラグインがあったほうが便利なの
 
 ### UIKIT
 参考までにUIKITを紹介します。
-
-
-
 - [ボタンなどのパーツメインが必要な場合](https://www.sketchappsources.com/free-source/1979-wirebase-wireframing-kit-sketch-freebie-resource.html)
 - [色々コミコミ版](https://www.sketchappsources.com/free-source/1823-moon-wireframe-kit-sketch-freebie-resource.html)
 
@@ -101,6 +100,9 @@ inVisionと連携をするにはプラグインがあったほうが便利なの
 
 ### inVisionの使い方
 http://blog.cntlog.net/?p=1802
+
+### Sketchの使い方
+http://blog.cntlog.net/?p=1845
 ----
 
 ## Xd組
