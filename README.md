@@ -79,8 +79,6 @@ Sketch組、Xd組に分かれて作業してもらいます。
 Sketchをダウンロードしていない人はダウンロードしてください。
 [Download Free Trial](https://www.sketchapp.com/)
 
-ファイルはサンプルを一つ用意していますので、必要であれば活用ください。
-https://drive.google.com/open?id=0B99a0Oq17hX5NXpCb3E3bHpmVjQ
 ### プラグイン
 inVisionと連携をするにはプラグインがあったほうが便利なので下記よりダウンロードしてください。
 
@@ -118,9 +116,6 @@ XDのダウンロード
 ### 共同作業用フォルダ
 リアルタイムでの共同編集はXD上ではまだ実装されていないので、グループ内で代表者が操作を行う、
 または、ファイルごとに作業を分担するなどグループで相談して制作を行ってください。
-
-ファイルの共有は以下のGoogleフォルダをご利用ください
-https://drive.google.com/drive/u/0/folders/0B5XyfEvaaEXjb2Q0VHVUeFY5ZDg
 
 # 流れ
 - 自己紹介（一人３分）
